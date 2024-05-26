@@ -1,7 +1,7 @@
 <template>
-  <div></div>
+  <div id="top-bar">顶部导航栏</div>
 </template>
 
 <script setup lang="ts"></script>
 
-<style scoped></style>
+<style scoped lang="scss"></style>
